@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guangzi",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.3,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ead42fb7-ddc0-4bb5-84e7-dce464684f51"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "7b49f60b-5715-41da-aeab-8b09a44cac6f"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "2a119103-2f33-42f1-9450-4155e0b073ae"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
